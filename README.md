@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aastha J</h1>
 <h3 align="center">A passionate and curious coder and developer from India 🚀</h3> 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aasthaj23&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaj23" />
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aasthaaj05&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaj05" />
 </p>
 
----
+--- -->
 
 
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasthaj23&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasthaaj05&layout=compact&theme=tokyonight)
 
 ---
 
