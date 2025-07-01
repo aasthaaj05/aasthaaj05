@@ -56,7 +56,5 @@
   <a href="https://www.linkedin.com/in/aastha-j/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://leetcode.com/u/user4404K/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
-  </a>
+  
 </p>
